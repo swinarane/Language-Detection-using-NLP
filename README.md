@@ -1,3 +1,7 @@
+<h1 align="center"> 🌍 LingoSoft AI </h1>
+<p align="center">
+  <b>The modern, pastel-powered language detection engine.</b>
+</p>
 📝 Project Description: LingoSoft AI
 LingoSoft AI is an intelligent Natural Language Processing (NLP) application designed to bridge communication gaps by instantly identifying the language of any given text. In an increasingly globalized world, accurately detecting language is the critical first step for translation services, content moderation, and multilingual search engines.
 
